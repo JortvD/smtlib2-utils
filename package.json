@@ -4,5 +4,5 @@
   "description": "A selection of utilities for SMT-LIB v2",
   "main": "index.js",
   "author": "JortvD",
-  "license": "ISC"
+  "license": "MIT"
 }
