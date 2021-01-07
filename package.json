@@ -1,6 +1,6 @@
 {
   "name": "smtlib2-utils",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A selection of utilities for SMT-LIB v2",
   "main": "index.js",
   "author": "JortvD",
